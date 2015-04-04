@@ -90,3 +90,12 @@ section {
   @extend .radius;
   @extend .tiny;
 }
+.button {
+  margin-bottom: 0px;
+}
+.good {
+  background-color: #8BC34A;
+}
+.bad {
+  background-color: #E53935;
+}
